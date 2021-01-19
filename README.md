@@ -1,2 +1,4 @@
-# angular-loves-tailwind
-get started with tailwind using angular development
+# AngularLovesTailwind
+
+# Get Started with Tailwind
+> npm install tailwindcss
